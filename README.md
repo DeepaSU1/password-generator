@@ -6,11 +6,15 @@
 
 ## Description
 
-This is an application that an employee can use to generate a random password based on criteria they’ve selected by modifying starter code.  It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
+This is an application that an user can use to generate a random password based on criteria selected for password option.  
+Application will prompt for password length, if length less than 10 digits, it will send message to reenter length >=10 and less than 64.
+Application will also prompt for password character options 1 for special characters, 2 for numbers, 3 for lower case and 4 for upper case characters.
+After choosing valid options, click password generate button.
+Output password generated will be displayed on the html screen as shown above.
 
 ## Installation
 
-N/A
+N/A, Run application github url mentioned below from default browser preferably chrome.
 
 ## Usage
 
@@ -25,7 +29,7 @@ https://github.com/DeepaSU1/password-generator
 
 ### User Story
 
-The following image shows the web application's appearance and functionality:
+The above image shows the web application's password output generated and functionality as requested in user story points below:
 
 
 * Generate a password when the button is clicked
