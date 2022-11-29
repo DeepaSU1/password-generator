@@ -16,6 +16,13 @@ N/A
 
 To use this web page, navigate to the above site using chrome browser.
 
+https://deepasu1.github.io/password-generator/
+
+https://github.com/DeepaSU1/password-generator/blob/main/script.js
+
+https://github.com/DeepaSU1/password-generator
+
+
 ### User Story
 
 The following image shows the web application's appearance and functionality:
