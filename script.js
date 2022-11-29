@@ -99,6 +99,7 @@ function getPasswordOptions() {
 
 }
 
+//enter password length
 passwordLength = prompt("Enter Password Length ");
 while (passwordLength < 10 && passwordLength < 64) {
   //var passwordLength = prompt("Enter Password Lenth");
